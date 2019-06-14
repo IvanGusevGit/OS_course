@@ -1,0 +1,44 @@
+#!/bin/bash
+
+request=$1
+
+trash_directory=$HOME/trash
+log_file=$HOME/trash.log
+
+
+if [[ $# -ne 1 ]]
+then
+	echo "Illegal number of arguments. One argument expected [filename]"
+	exit 1
+fi 
+
+for i in $(grep -s $request $log_file)
+do
+	counter=$(echo $i | awk -F ':' '{print $1}')
+	path=$(echo $i | awk -F ':' '{print $2}')
+	filename=$(echo $i | awk -F ':' '{print $3}')
+	stored_file=$trash_directory/$counter
+	
+	if [[ -e $stored_file ]]
+	then
+		echo "Do you want to restore file  [$path/$filenamme] ? (y/n)"
+		read answer
+		if [[ $answer == "y" ]]
+		then
+			if [[ -d $(dirname $path/$filename) ]]
+			then
+				if [[ -e $path/$filename ]]
+				then
+					echo "File already exists"
+					rm $stored_file
+					exit 0
+				fi
+				ln $stored_file $path/$filename
+			else
+				echo "Unable to find directory $(dirname $path/$filename)"
+				ln $stored_file $HOME/$request
+			fi
+			rm $stored_file
+		fi
+	fi
+done

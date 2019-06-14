@@ -1,0 +1,31 @@
+#!/bin/bash
+
+backup_directory=$(ls $HOME/*/ | grep -o -E "Backup-[0-9]{4}-[0-9]{2}-[0-9]{2}")
+previous_backup_directory="$HOME/$(echo "$backup_directory" | tail -1)"
+
+if [[ ! -d "$previous_backup_directory" ]]
+then
+  	echo "Error:: backup directories were not found"
+  	exit 1
+fi
+
+cd "$previous_backup_directory"
+
+files=$(find . -type f | grep -E -v ".[0-9]{4}-[0-9]{2}-[0-9]{2}")
+
+restore_directory="$HOME/restore/"
+
+if [[ ! -d "$restore_directory" ]]
+then
+  	mkdir "$restore_directory"
+fi
+
+for current_file in $files
+do
+  	if [[ -d "$restore_directory/$current_file" ]]
+	then
+    		echo "Overwriting directory $restoreFolder$f with file $current_file"
+    		rm -rf "$restoreFolder/$current_file"
+  	fi
+  	cp --parents "$current_file" "$restore_directory/"
+done

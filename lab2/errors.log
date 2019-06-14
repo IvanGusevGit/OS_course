@@ -1,0 +1,863 @@
+Apr 17 09:58:32 ivan-PC kernel: [261223.595196] ACPI: EC: interrupt blocked
+Apr 17 09:58:32 ivan-PC kernel: [261223.635219] ACPI: Preparing to enter system sleep state S3
+Apr 17 09:58:32 ivan-PC kernel: [261223.637341] ACPI: EC: event blocked
+Apr 17 09:58:32 ivan-PC kernel: [261223.637342] ACPI: EC: EC stopped
+Apr 17 09:58:32 ivan-PC kernel: [261223.703184] ACPI: Low-level resume complete
+Apr 17 09:58:32 ivan-PC kernel: [261223.703302] ACPI: EC: EC started
+Apr 17 09:58:32 ivan-PC kernel: [261223.711912] ACPI: Waking up from system sleep state S3
+Apr 17 09:58:32 ivan-PC kernel: [261223.716670] ACPI: EC: interrupt unblocked
+Apr 17 09:58:32 ivan-PC kernel: [261223.812199] ACPI: EC: event unblocked
+Apr 17 10:05:50 ivan-PC kernel: [261536.881979] ACPI: EC: interrupt blocked
+Apr 17 10:05:50 ivan-PC kernel: [261536.925491] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:05:50 ivan-PC kernel: [261536.927694] ACPI: EC: event blocked
+Apr 17 10:05:50 ivan-PC kernel: [261536.927695] ACPI: EC: EC stopped
+Apr 17 10:05:50 ivan-PC kernel: [261536.993335] ACPI: Low-level resume complete
+Apr 17 10:05:50 ivan-PC kernel: [261536.993453] ACPI: EC: EC started
+Apr 17 10:05:50 ivan-PC kernel: [261537.002153] ACPI: Waking up from system sleep state S3
+Apr 17 10:05:50 ivan-PC kernel: [261537.006943] ACPI: EC: interrupt unblocked
+Apr 17 10:05:50 ivan-PC kernel: [261537.102432] ACPI: EC: event unblocked
+Apr 17 10:28:07 ivan-PC kernel: [262392.148777] ACPI: EC: interrupt blocked
+Apr 17 10:28:07 ivan-PC kernel: [262392.192745] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:28:07 ivan-PC kernel: [262392.194724] ACPI: EC: event blocked
+Apr 17 10:28:07 ivan-PC kernel: [262392.194725] ACPI: EC: EC stopped
+Apr 17 10:28:07 ivan-PC kernel: [262392.260666] ACPI: Low-level resume complete
+Apr 17 10:28:07 ivan-PC kernel: [262392.260786] ACPI: EC: EC started
+Apr 17 10:28:07 ivan-PC kernel: [262392.269455] ACPI: Waking up from system sleep state S3
+Apr 17 10:28:07 ivan-PC kernel: [262392.274303] ACPI: EC: interrupt unblocked
+Apr 17 10:28:07 ivan-PC kernel: [262392.369919] ACPI: EC: event unblocked
+Apr 17 10:28:56 ivan-PC kernel: [262422.704296] ACPI: EC: interrupt blocked
+Apr 17 10:28:56 ivan-PC kernel: [262422.744404] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:28:56 ivan-PC kernel: [262422.746539] ACPI: EC: event blocked
+Apr 17 10:28:56 ivan-PC kernel: [262422.746540] ACPI: EC: EC stopped
+Apr 17 10:28:56 ivan-PC kernel: [262422.812241] ACPI: Low-level resume complete
+Apr 17 10:28:56 ivan-PC kernel: [262422.812359] ACPI: EC: EC started
+Apr 17 10:28:56 ivan-PC kernel: [262422.821067] ACPI: Waking up from system sleep state S3
+Apr 17 10:28:56 ivan-PC kernel: [262422.825914] ACPI: EC: interrupt unblocked
+Apr 17 10:28:56 ivan-PC kernel: [262422.921292] ACPI: EC: event unblocked
+Apr 17 10:34:06 ivan-PC kernel: [262477.511719] ACPI: EC: interrupt blocked
+Apr 17 10:34:06 ivan-PC kernel: [262477.551804] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:34:06 ivan-PC kernel: [262477.553952] ACPI: EC: event blocked
+Apr 17 10:34:06 ivan-PC kernel: [262477.553953] ACPI: EC: EC stopped
+Apr 17 10:34:06 ivan-PC kernel: [262477.619735] ACPI: Low-level resume complete
+Apr 17 10:34:06 ivan-PC kernel: [262477.619853] ACPI: EC: EC started
+Apr 17 10:34:06 ivan-PC kernel: [262477.628558] ACPI: Waking up from system sleep state S3
+Apr 17 10:34:06 ivan-PC kernel: [262477.633353] ACPI: EC: interrupt unblocked
+Apr 17 10:34:06 ivan-PC kernel: [262477.732794] ACPI: EC: event unblocked
+Apr 17 10:35:04 ivan-PC kernel: [262507.743298] ACPI: EC: interrupt blocked
+Apr 17 10:35:04 ivan-PC kernel: [262507.787342] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:35:04 ivan-PC kernel: [262507.789459] ACPI: EC: event blocked
+Apr 17 10:35:04 ivan-PC kernel: [262507.789460] ACPI: EC: EC stopped
+Apr 17 10:35:04 ivan-PC kernel: [262507.855295] ACPI: Low-level resume complete
+Apr 17 10:35:04 ivan-PC kernel: [262507.855413] ACPI: EC: EC started
+Apr 17 10:35:04 ivan-PC kernel: [262507.864169] ACPI: Waking up from system sleep state S3
+Apr 17 10:35:04 ivan-PC kernel: [262507.869046] ACPI: EC: interrupt unblocked
+Apr 17 10:35:04 ivan-PC kernel: [262507.968383] ACPI: EC: event unblocked
+Apr 17 10:39:55 ivan-PC kernel: [262543.758805] ACPI: EC: interrupt blocked
+Apr 17 10:39:55 ivan-PC kernel: [262543.798866] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:39:55 ivan-PC kernel: [262543.800995] ACPI: EC: event blocked
+Apr 17 10:39:55 ivan-PC kernel: [262543.800996] ACPI: EC: EC stopped
+Apr 17 10:39:55 ivan-PC kernel: [262543.866681] ACPI: Low-level resume complete
+Apr 17 10:39:55 ivan-PC kernel: [262543.866799] ACPI: EC: EC started
+Apr 17 10:39:55 ivan-PC kernel: [262543.875558] ACPI: Waking up from system sleep state S3
+Apr 17 10:39:55 ivan-PC kernel: [262543.880285] ACPI: EC: interrupt unblocked
+Apr 17 10:39:55 ivan-PC kernel: [262543.975807] ACPI: EC: event unblocked
+Apr 17 19:08:56 ivan-PC kernel: [266818.813273] ACPI: EC: interrupt blocked
+Apr 17 19:08:56 ivan-PC kernel: [266818.853317] ACPI: Preparing to enter system sleep state S3
+Apr 17 19:08:56 ivan-PC kernel: [266818.855514] ACPI: EC: event blocked
+Apr 17 19:08:56 ivan-PC kernel: [266818.855515] ACPI: EC: EC stopped
+Apr 17 19:08:56 ivan-PC kernel: [266818.925208] ACPI: Low-level resume complete
+Apr 17 19:08:56 ivan-PC kernel: [266818.925327] ACPI: EC: EC started
+Apr 17 19:08:56 ivan-PC kernel: [266818.933998] ACPI: Waking up from system sleep state S3
+Apr 17 19:08:56 ivan-PC kernel: [266818.938805] ACPI: EC: interrupt unblocked
+Apr 17 19:08:56 ivan-PC kernel: [266819.038413] ACPI: EC: event unblocked
+Apr  7 11:22:33 ivan-PC kernel: [129575.954291] ACPI: EC: interrupt blocked
+Apr  7 11:22:33 ivan-PC kernel: [129575.998107] ACPI: Preparing to enter system sleep state S3
+Apr  7 11:22:33 ivan-PC kernel: [129576.000157] ACPI: EC: event blocked
+Apr  7 11:22:33 ivan-PC kernel: [129576.000158] ACPI: EC: EC stopped
+Apr  7 11:22:33 ivan-PC kernel: [129576.074195] ACPI: Low-level resume complete
+Apr  7 11:22:33 ivan-PC kernel: [129576.074314] ACPI: EC: EC started
+Apr  7 11:22:33 ivan-PC kernel: [129576.083073] ACPI: Waking up from system sleep state S3
+Apr  7 11:22:33 ivan-PC kernel: [129576.087879] ACPI: EC: interrupt unblocked
+Apr  7 11:22:33 ivan-PC kernel: [129576.187253] ACPI: EC: event unblocked
+Apr  7 13:03:54 ivan-PC kernel: [130795.158140] ACPI: EC: interrupt blocked
+Apr  7 13:03:54 ivan-PC kernel: [130795.197902] ACPI: Preparing to enter system sleep state S3
+Apr  7 13:03:54 ivan-PC kernel: [130795.200046] ACPI: EC: event blocked
+Apr  7 13:03:54 ivan-PC kernel: [130795.200047] ACPI: EC: EC stopped
+Apr  7 13:03:54 ivan-PC kernel: [130795.265972] ACPI: Low-level resume complete
+Apr  7 13:03:54 ivan-PC kernel: [130795.266091] ACPI: EC: EC started
+Apr  7 13:03:54 ivan-PC kernel: [130795.274869] ACPI: Waking up from system sleep state S3
+Apr  7 13:03:54 ivan-PC kernel: [130795.279728] ACPI: EC: interrupt unblocked
+Apr  7 13:03:54 ivan-PC kernel: [130795.359021] ACPI: EC: event unblocked
+Apr  7 20:13:23 ivan-PC kernel: [147083.235058] ACPI: EC: interrupt blocked
+Apr  7 20:13:23 ivan-PC kernel: [147083.275171] ACPI: Preparing to enter system sleep state S3
+Apr  7 20:13:23 ivan-PC kernel: [147083.277300] ACPI: EC: event blocked
+Apr  7 20:13:23 ivan-PC kernel: [147083.277301] ACPI: EC: EC stopped
+Apr  7 20:13:23 ivan-PC kernel: [147083.351294] ACPI: Low-level resume complete
+Apr  7 20:13:23 ivan-PC kernel: [147083.351415] ACPI: EC: EC started
+Apr  7 20:13:23 ivan-PC kernel: [147083.360185] ACPI: Waking up from system sleep state S3
+Apr  7 20:13:23 ivan-PC kernel: [147083.365013] ACPI: EC: interrupt unblocked
+Apr  7 20:13:23 ivan-PC kernel: [147083.464193] ACPI: EC: event unblocked
+Apr  8 02:46:31 ivan-PC kernel: [155483.303447] ACPI: EC: interrupt blocked
+Apr  8 02:46:31 ivan-PC kernel: [155483.343147] ACPI: Preparing to enter system sleep state S3
+Apr  8 02:46:31 ivan-PC kernel: [155483.345365] ACPI: EC: event blocked
+Apr  8 02:46:31 ivan-PC kernel: [155483.345366] ACPI: EC: EC stopped
+Apr  8 02:46:31 ivan-PC kernel: [155483.411313] ACPI: Low-level resume complete
+Apr  8 02:46:31 ivan-PC kernel: [155483.411434] ACPI: EC: EC started
+Apr  8 02:46:31 ivan-PC kernel: [155483.420226] ACPI: Waking up from system sleep state S3
+Apr  8 02:46:31 ivan-PC kernel: [155483.425022] ACPI: EC: interrupt unblocked
+Apr  8 02:46:31 ivan-PC kernel: [155483.524210] ACPI: EC: event unblocked
+Apr  8 18:40:13 ivan-PC kernel: [204650.103113] ACPI: EC: interrupt blocked
+Apr  8 18:40:13 ivan-PC kernel: [204650.147181] ACPI: Preparing to enter system sleep state S3
+Apr  8 18:40:13 ivan-PC kernel: [204650.149325] ACPI: EC: event blocked
+Apr  8 18:40:13 ivan-PC kernel: [204650.149326] ACPI: EC: EC stopped
+Apr  8 18:40:13 ivan-PC kernel: [204650.215163] ACPI: Low-level resume complete
+Apr  8 18:40:13 ivan-PC kernel: [204650.215284] ACPI: EC: EC started
+Apr  8 18:40:13 ivan-PC kernel: [204650.224060] ACPI: Waking up from system sleep state S3
+Apr  8 18:40:13 ivan-PC kernel: [204650.229039] ACPI: EC: interrupt unblocked
+Apr  8 18:40:13 ivan-PC kernel: [204650.328195] ACPI: EC: event unblocked
+Apr  8 21:49:20 ivan-PC kernel: [205170.139586] ACPI: EC: interrupt blocked
+Apr  8 21:49:20 ivan-PC kernel: [205170.183615] ACPI: Preparing to enter system sleep state S3
+Apr  8 21:49:20 ivan-PC kernel: [205170.185875] ACPI: EC: event blocked
+Apr  8 21:49:20 ivan-PC kernel: [205170.185876] ACPI: EC: EC stopped
+Apr  8 21:49:20 ivan-PC kernel: [205170.251541] ACPI: Low-level resume complete
+Apr  8 21:49:20 ivan-PC kernel: [205170.251661] ACPI: EC: EC started
+Apr  8 21:49:20 ivan-PC kernel: [205170.260430] ACPI: Waking up from system sleep state S3
+Apr  8 21:49:20 ivan-PC kernel: [205170.265253] ACPI: EC: interrupt unblocked
+Apr  8 21:49:20 ivan-PC kernel: [205170.364637] ACPI: EC: event unblocked
+Apr  9 04:30:49 ivan-PC kernel: [205502.753148] ACPI: EC: interrupt blocked
+Apr  9 04:30:49 ivan-PC kernel: [205502.793239] ACPI: Preparing to enter system sleep state S3
+Apr  9 04:30:49 ivan-PC kernel: [205502.795447] ACPI: EC: event blocked
+Apr  9 04:30:49 ivan-PC kernel: [205502.795448] ACPI: EC: EC stopped
+Apr  9 04:30:49 ivan-PC kernel: [205502.861198] ACPI: Low-level resume complete
+Apr  9 04:30:49 ivan-PC kernel: [205502.861318] ACPI: EC: EC started
+Apr  9 04:30:49 ivan-PC kernel: [205502.870068] ACPI: Waking up from system sleep state S3
+Apr  9 04:30:49 ivan-PC kernel: [205502.874873] ACPI: EC: interrupt unblocked
+Apr  9 04:30:49 ivan-PC kernel: [205502.954226] ACPI: EC: event unblocked
+Apr  9 05:03:53 ivan-PC kernel: [205602.116294] ACPI: EC: interrupt blocked
+Apr  9 05:03:53 ivan-PC kernel: [205602.156234] ACPI: Preparing to enter system sleep state S3
+Apr  9 05:03:53 ivan-PC kernel: [205602.158303] ACPI: EC: event blocked
+Apr  9 05:03:53 ivan-PC kernel: [205602.158304] ACPI: EC: EC stopped
+Apr  9 05:03:53 ivan-PC kernel: [205602.224428] ACPI: Low-level resume complete
+Apr  9 05:03:53 ivan-PC kernel: [205602.224548] ACPI: EC: EC started
+Apr  9 05:03:53 ivan-PC kernel: [205602.233347] ACPI: Waking up from system sleep state S3
+Apr  9 05:03:53 ivan-PC kernel: [205602.238160] ACPI: EC: interrupt unblocked
+Apr  9 05:03:53 ivan-PC kernel: [205602.337301] ACPI: EC: event unblocked
+Apr  9 08:02:01 ivan-PC kernel: [205719.437372] ACPI: EC: interrupt blocked
+Apr  9 08:02:01 ivan-PC kernel: [205719.477371] ACPI: Preparing to enter system sleep state S3
+Apr  9 08:02:01 ivan-PC kernel: [205719.479366] ACPI: EC: event blocked
+Apr  9 08:02:01 ivan-PC kernel: [205719.479367] ACPI: EC: EC stopped
+Apr  9 08:02:01 ivan-PC kernel: [205719.545296] ACPI: Low-level resume complete
+Apr  9 08:02:01 ivan-PC kernel: [205719.545417] ACPI: EC: EC started
+Apr  9 08:02:01 ivan-PC kernel: [205719.554252] ACPI: Waking up from system sleep state S3
+Apr  9 08:02:01 ivan-PC kernel: [205719.559138] ACPI: EC: interrupt unblocked
+Apr  9 08:02:01 ivan-PC kernel: [205719.654745] ACPI: EC: event unblocked
+Apr  9 10:01:15 ivan-PC kernel: [205754.076680] ACPI: EC: interrupt blocked
+Apr  9 10:01:15 ivan-PC kernel: [205754.116739] ACPI: Preparing to enter system sleep state S3
+Apr  9 10:01:15 ivan-PC kernel: [205754.118893] ACPI: EC: event blocked
+Apr  9 10:01:15 ivan-PC kernel: [205754.118894] ACPI: EC: EC stopped
+Apr  9 10:01:15 ivan-PC kernel: [205754.184695] ACPI: Low-level resume complete
+Apr  9 10:01:15 ivan-PC kernel: [205754.184815] ACPI: EC: EC started
+Apr  9 10:01:15 ivan-PC kernel: [205754.193630] ACPI: Waking up from system sleep state S3
+Apr  9 10:01:15 ivan-PC kernel: [205754.198429] ACPI: EC: interrupt unblocked
+Apr  9 10:01:15 ivan-PC kernel: [205754.293716] ACPI: EC: event unblocked
+Apr  9 10:23:59 ivan-PC kernel: [205864.754235] ACPI: EC: interrupt blocked
+Apr  9 10:23:59 ivan-PC kernel: [205864.794217] ACPI: Preparing to enter system sleep state S3
+Apr  9 10:23:59 ivan-PC kernel: [205864.796362] ACPI: EC: event blocked
+Apr  9 10:23:59 ivan-PC kernel: [205864.796363] ACPI: EC: EC stopped
+Apr  9 10:23:59 ivan-PC kernel: [205864.862571] ACPI: Low-level resume complete
+Apr  9 10:23:59 ivan-PC kernel: [205864.862691] ACPI: EC: EC started
+Apr  9 10:23:59 ivan-PC kernel: [205864.871508] ACPI: Waking up from system sleep state S3
+Apr  9 10:23:59 ivan-PC kernel: [205864.876349] ACPI: EC: interrupt unblocked
+Apr  9 10:23:59 ivan-PC kernel: [205864.975298] ACPI: EC: event unblocked
+Apr  9 11:35:16 ivan-PC kernel: [206085.048541] ACPI: EC: interrupt blocked
+Apr  9 11:35:16 ivan-PC kernel: [206085.088646] ACPI: Preparing to enter system sleep state S3
+Apr  9 11:35:16 ivan-PC kernel: [206085.090792] ACPI: EC: event blocked
+Apr  9 11:35:16 ivan-PC kernel: [206085.090793] ACPI: EC: EC stopped
+Apr  9 11:35:16 ivan-PC kernel: [206085.156696] ACPI: Low-level resume complete
+Apr  9 11:35:16 ivan-PC kernel: [206085.156817] ACPI: EC: EC started
+Apr  9 11:35:16 ivan-PC kernel: [206085.165647] ACPI: Waking up from system sleep state S3
+Apr  9 11:35:16 ivan-PC kernel: [206085.170451] ACPI: EC: interrupt unblocked
+Apr  9 11:35:16 ivan-PC kernel: [206085.249554] ACPI: EC: event unblocked
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] BIOS-e820: [mem 0x000000007318b000-0x000000007318bfff] ACPI NVS
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] BIOS-e820: [mem 0x000000008c88e000-0x000000008cf7dfff] ACPI NVS
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] BIOS-e820: [mem 0x000000008cf7e000-0x000000008cffdfff] ACPI data
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] efi:  ACPI 2.0=0x8cffd014  SMBIOS=0x8c112000  SMBIOS 3.0=0x8c110000  ESRT=0x8c1157d8 
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: RSDP 0x000000008CFFD014 000024 (v02 XMCC  )
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: XSDT 0x000000008CFC0188 0000F4 (v01 XMCC   XMCC1604 00000000      01000013)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: FACP 0x000000008CFE9000 00010C (v05 XMCC   XMCC1604 00000000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: DSDT 0x000000008CFC4000 02089A (v02 XMCC   XMCC1604 00000000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: FACS 0x000000008CF55000 000040
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: SSDT 0x000000008CFF7000 0045AF (v02 XMCC   XMCC1604 00000000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: MSDM 0x000000008CFF5000 000055 (v03 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: SSDT 0x000000008CFF3000 000046 (v02 XMCC   XMCC1604 00003000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: SSDT 0x000000008CFEE000 003132 (v02 XMCC   XMCC1604 00003000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: ASPT 0x000000008CFEC000 000034 (v07 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: DBGP 0x000000008CFEA000 000034 (v01 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: APIC 0x000000008CFE7000 00012C (v03 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LPIT 0x000000008CFC3000 000094 (v01 XMCC   XMCC1604 00000000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: DBGP 0x000000008CFC1000 000034 (v01 XMCC   XMCC1604 00000002 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: SSDT 0x000000008CFBC000 0009CF (v02 XMCC   XMCC1604 00001000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: DMAR 0x000000008CFB8000 0000F0 (v01 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: UEFI 0x000000008CFFC000 000236 (v01 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: SSDT 0x000000008CFF4000 0004C3 (v02 XMCC   XMCC1604 00001000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: ASF! 0x000000008CFED000 0000A5 (v32 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: HPET 0x000000008CFE8000 000038 (v01 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: WSMT 0x000000008CFC2000 000028 (v01 XMCC   XMCC1604 00000000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: SSDT 0x000000008CFBD000 0017AE (v02 XMCC   XMCC1604 00003000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: FPDT 0x000000008CFE5000 000044 (v01 XMCC   XMCC1604 00000002 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: UEFI 0x000000008CFF6000 000042 (v01 XMCC   XMCC1604 00000002 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: BOOT 0x000000008CFEB000 000028 (v01 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: DBG2 0x000000008CFBF000 000054 (v00 XMCC   XMCC1604 00000002 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: MCFG 0x000000008CFE6000 00003C (v01 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: TPM2 0x000000008CFF2000 000034 (v03 XMCC   XMCC1604 00000000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: SSDT 0x000000008CFB9000 002BE8 (v01 XMCC   XMCC1604 00001000 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: BGRT 0x000000008CFB7000 000038 (v01 XMCC   XMCC1604 00000001 ACPI 00040000)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x02] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x03] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x04] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x05] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x06] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x07] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x08] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x09] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0a] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0b] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0c] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0d] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0e] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0f] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x10] high edge lint[0x1])
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: IRQ0 used by override.
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: IRQ9 used by override.
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: Core revision 20170831
+Apr  9 12:42:50 ivan-PC kernel: [    0.000000] ACPI: 8 ACPI AML tables successfully acquired and loaded
+Apr  9 12:42:50 ivan-PC kernel: [    0.044709] PM: Registering ACPI NVS region [mem 0x7318b000-0x7318bfff] (4096 bytes)
+Apr  9 12:42:50 ivan-PC kernel: [    0.044709] PM: Registering ACPI NVS region [mem 0x8c88e000-0x8cf7dfff] (7274496 bytes)
+Apr  9 12:42:50 ivan-PC kernel: [    0.044709] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Apr  9 12:42:50 ivan-PC kernel: [    0.044709] ACPI: bus type PCI registered
+Apr  9 12:42:50 ivan-PC kernel: [    0.044709] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Apr  9 12:42:50 ivan-PC kernel: [    0.045134] ACPI: Added _OSI(Module Device)
+Apr  9 12:42:50 ivan-PC kernel: [    0.045134] ACPI: Added _OSI(Processor Device)
+Apr  9 12:42:50 ivan-PC kernel: [    0.045134] ACPI: Added _OSI(3.0 _SCP Extensions)
+Apr  9 12:42:50 ivan-PC kernel: [    0.045134] ACPI: Added _OSI(Processor Aggregator Device)
+Apr  9 12:42:50 ivan-PC kernel: [    0.045134] ACPI: Added _OSI(Linux-Dell-Video)
+Apr  9 12:42:50 ivan-PC kernel: [    0.045134] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Apr  9 12:42:50 ivan-PC kernel: [    0.045134] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Apr  9 12:42:50 ivan-PC kernel: [    0.053815] ACPI: Executed 45 blocks of module-level executable AML code
+Apr  9 12:42:50 ivan-PC kernel: [    0.064000] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Apr  9 12:42:50 ivan-PC kernel: [    0.067080] ACPI: Dynamic OEM Table Load:
+Apr  9 12:42:50 ivan-PC kernel: [    0.067096] ACPI: SSDT 0xFFFF8AF2A4F37000 0006B4 (v02 PmRef  Cpu0Ist  00003000 INTL 20160527)
+Apr  9 12:42:50 ivan-PC kernel: [    0.067382] ACPI: Executed 1 blocks of module-level executable AML code
+Apr  9 12:42:50 ivan-PC kernel: [    0.067489] ACPI: \_PR_.PR00: _OSC native thermal LVT Acked
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: Dynamic OEM Table Load:
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: SSDT 0xFFFF8AF2A4993800 0003FF (v02 PmRef  Cpu0Cst  00003001 INTL 20160527)
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: Executed 1 blocks of module-level executable AML code
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: Dynamic OEM Table Load:
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: SSDT 0xFFFF8AF2A491FC00 0000BA (v02 PmRef  Cpu0Hwp  00003000 INTL 20160527)
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: Executed 1 blocks of module-level executable AML code
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: Dynamic OEM Table Load:
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: SSDT 0xFFFF8AF2A4F33000 000628 (v02 PmRef  HwpLvt   00003000 INTL 20160527)
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: Executed 1 blocks of module-level executable AML code
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: Dynamic OEM Table Load:
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: SSDT 0xFFFF8AF2A4FD5000 000D14 (v02 PmRef  ApIst    00003000 INTL 20160527)
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: Executed 1 blocks of module-level executable AML code
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: Dynamic OEM Table Load:
+Apr  9 12:42:50 ivan-PC kernel: [    0.072000] ACPI: SSDT 0xFFFF8AF2A4991400 000317 (v02 PmRef  ApHwp    00003000 INTL 20160527)
+Apr  9 12:42:50 ivan-PC kernel: [    0.072173] ACPI: Executed 1 blocks of module-level executable AML code
+Apr  9 12:42:50 ivan-PC kernel: [    0.072399] ACPI: Dynamic OEM Table Load:
+Apr  9 12:42:50 ivan-PC kernel: [    0.072406] ACPI: SSDT 0xFFFF8AF2A4993C00 00030A (v02 PmRef  ApCst    00003000 INTL 20160527)
+Apr  9 12:42:50 ivan-PC kernel: [    0.072726] ACPI: Executed 1 blocks of module-level executable AML code
+Apr  9 12:42:50 ivan-PC kernel: [    0.074462] ACPI: EC: EC started
+Apr  9 12:42:50 ivan-PC kernel: [    0.074462] ACPI: EC: interrupt blocked
+Apr  9 12:42:50 ivan-PC kernel: [    0.076000] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Apr  9 12:42:50 ivan-PC kernel: [    0.076000] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x4f, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Apr  9 12:42:50 ivan-PC kernel: [    0.076000] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Apr  9 12:42:50 ivan-PC kernel: [    0.076000] ACPI: Interpreter enabled
+Apr  9 12:42:50 ivan-PC kernel: [    0.076000] ACPI: (supports S0 S3 S4 S5)
+Apr  9 12:42:50 ivan-PC kernel: [    0.076000] ACPI: Using IOAPIC for interrupt routing
+Apr  9 12:42:50 ivan-PC kernel: [    0.076000] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Apr  9 12:42:50 ivan-PC kernel: [    0.076000] ACPI: Enabled 5 GPEs in block 00 to 7F
+Apr  9 12:42:50 ivan-PC kernel: [    0.086106] ACPI: Power Resource [PC01] (on)
+Apr  9 12:42:50 ivan-PC kernel: [    0.107280] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Apr  9 12:42:50 ivan-PC kernel: [    0.174250] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr  9 12:42:50 ivan-PC kernel: [    0.174323] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 *10 11 12 14 15)
+Apr  9 12:42:50 ivan-PC kernel: [    0.174394] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr  9 12:42:50 ivan-PC kernel: [    0.174464] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr  9 12:42:50 ivan-PC kernel: [    0.174533] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr  9 12:42:50 ivan-PC kernel: [    0.174603] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr  9 12:42:50 ivan-PC kernel: [    0.174673] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr  9 12:42:50 ivan-PC kernel: [    0.174744] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr  9 12:42:50 ivan-PC kernel: [    0.176002] ACPI: EC: interrupt unblocked
+Apr  9 12:42:50 ivan-PC kernel: [    0.176002] ACPI: EC: event unblocked
+Apr  9 12:42:50 ivan-PC kernel: [    0.176002] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x4f, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Apr  9 12:42:50 ivan-PC kernel: [    0.176002] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Apr  9 12:42:50 ivan-PC kernel: [    0.176042] ACPI: bus type USB registered
+Apr  9 12:42:50 ivan-PC kernel: [    0.224026] PCI: Using ACPI for IRQ routing
+Apr  9 12:42:50 ivan-PC kernel: [    0.262077] pnp: PnP ACPI init
+Apr  9 12:42:50 ivan-PC kernel: [    0.262324] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr  9 12:42:50 ivan-PC kernel: [    0.262682] system 00:01: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr  9 12:42:50 ivan-PC kernel: [    0.262852] system 00:02: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr  9 12:42:50 ivan-PC kernel: [    0.262982] pnp 00:03: Plug and Play ACPI device, IDs PNP0b00 (active)
+Apr  9 12:42:50 ivan-PC kernel: [    0.263026] system 00:04: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Apr  9 12:42:50 ivan-PC kernel: [    0.263123] pnp 00:05: Plug and Play ACPI device, IDs PNP0303 (active)
+Apr  9 12:42:50 ivan-PC kernel: [    0.264680] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr  9 12:42:50 ivan-PC kernel: [    0.265577] system 00:07: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr  9 12:42:50 ivan-PC kernel: [    0.265954] pnp: PnP ACPI: found 8 devices
+Apr  9 12:42:50 ivan-PC kernel: [    0.834528] DMAR: ACPI device "device:70" under DMAR at fed91000 as 00:15.0
+Apr  9 12:42:50 ivan-PC kernel: [    0.834532] DMAR: ACPI device "device:71" under DMAR at fed91000 as 00:15.1
+Apr  9 12:42:50 ivan-PC kernel: [    0.841719] ACPI: AC Adapter [ADP1] (off-line)
+Apr  9 12:42:50 ivan-PC kernel: [    0.841803] ACPI: Lid Switch [LID0]
+Apr  9 12:42:50 ivan-PC kernel: [    0.841839] ACPI: Sleep Button [SLPB]
+Apr  9 12:42:50 ivan-PC kernel: [    0.841923] ACPI: Power Button [PWRF]
+Apr  9 12:42:50 ivan-PC kernel: [    0.843995] ACPI: Thermal Zone [TZ01] (33 C)
+Apr  9 12:42:50 ivan-PC kernel: [    0.844278] ACPI: Thermal Zone [TZ00] (22 C)
+Apr  9 12:42:50 ivan-PC kernel: [    0.845331] ACPI: Battery Slot [BAT0] (battery present)
+Apr  9 12:42:50 ivan-PC kernel: [    2.658296] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Apr  9 12:42:50 ivan-PC kernel: [    2.658389] ACPI Warning: \_SB.PCI0.RP01.PXSX._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Apr  9 12:42:50 ivan-PC kernel: [    2.678165] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Apr  9 12:42:50 ivan-PC kernel: [    2.683172] [Firmware Bug]: ACPI(PXSX) defines _DOD but not _DOS
+Apr  9 12:42:50 ivan-PC kernel: [    2.684543] ACPI: Video Device [PXSX] (multi-head: yes  rom: yes  post: no)
+Apr  9 12:42:50 ivan-PC kernel: [    2.860407] acer_wmi: Acer Laptop ACPI-WMI Extras
+Apr  9 13:22:02 ivan-PC kernel: [ 2180.516776] ACPI: EC: interrupt blocked
+Apr  9 13:22:02 ivan-PC kernel: [ 2180.560831] ACPI: Preparing to enter system sleep state S3
+Apr  9 13:22:02 ivan-PC kernel: [ 2180.562954] ACPI: EC: event blocked
+Apr  9 13:22:02 ivan-PC kernel: [ 2180.562955] ACPI: EC: EC stopped
+Apr  9 13:22:02 ivan-PC kernel: [ 2180.628942] ACPI: Low-level resume complete
+Apr  9 13:22:02 ivan-PC kernel: [ 2180.629061] ACPI: EC: EC started
+Apr  9 13:22:02 ivan-PC kernel: [ 2180.639244] ACPI: Waking up from system sleep state S3
+Apr  9 13:22:02 ivan-PC kernel: [ 2180.645576] ACPI: EC: interrupt unblocked
+Apr  9 13:22:02 ivan-PC kernel: [ 2180.742054] ACPI: EC: event unblocked
+Apr  9 17:28:51 ivan-PC kernel: [ 4816.534829] ACPI: EC: interrupt blocked
+Apr  9 17:28:51 ivan-PC kernel: [ 4816.574887] ACPI: Preparing to enter system sleep state S3
+Apr  9 17:28:51 ivan-PC kernel: [ 4816.576999] ACPI: EC: event blocked
+Apr  9 17:28:51 ivan-PC kernel: [ 4816.577001] ACPI: EC: EC stopped
+Apr  9 17:28:51 ivan-PC kernel: [ 4816.642744] ACPI: Low-level resume complete
+Apr  9 17:28:51 ivan-PC kernel: [ 4816.642862] ACPI: EC: EC started
+Apr  9 17:28:51 ivan-PC kernel: [ 4816.651505] ACPI: Waking up from system sleep state S3
+Apr  9 17:28:51 ivan-PC kernel: [ 4816.656440] ACPI: EC: interrupt unblocked
+Apr  9 17:28:51 ivan-PC kernel: [ 4816.735863] ACPI: EC: event unblocked
+Apr  9 21:50:59 ivan-PC kernel: [10267.906185] ACPI: EC: interrupt blocked
+Apr  9 21:50:59 ivan-PC kernel: [10267.945848] ACPI: Preparing to enter system sleep state S3
+Apr  9 21:50:59 ivan-PC kernel: [10267.947963] ACPI: EC: event blocked
+Apr  9 21:50:59 ivan-PC kernel: [10267.947964] ACPI: EC: EC stopped
+Apr  9 21:50:59 ivan-PC kernel: [10268.013851] ACPI: Low-level resume complete
+Apr  9 21:50:59 ivan-PC kernel: [10268.013969] ACPI: EC: EC started
+Apr  9 21:50:59 ivan-PC kernel: [10268.022631] ACPI: Waking up from system sleep state S3
+Apr  9 21:50:59 ivan-PC kernel: [10268.027466] ACPI: EC: interrupt unblocked
+Apr  9 21:50:59 ivan-PC kernel: [10268.027685] ACPI: button: The lid device is not compliant to SW_LID.
+Apr  9 21:50:59 ivan-PC kernel: [10268.106938] ACPI: EC: event unblocked
+Apr 10 04:02:48 ivan-PC kernel: [13128.809398] ACPI: EC: interrupt blocked
+Apr 10 04:02:48 ivan-PC kernel: [13128.849276] ACPI: Preparing to enter system sleep state S3
+Apr 10 04:02:48 ivan-PC kernel: [13128.851303] ACPI: EC: event blocked
+Apr 10 04:02:48 ivan-PC kernel: [13128.851304] ACPI: EC: EC stopped
+Apr 10 04:02:48 ivan-PC kernel: [13128.917230] ACPI: Low-level resume complete
+Apr 10 04:02:48 ivan-PC kernel: [13128.917348] ACPI: EC: EC started
+Apr 10 04:02:48 ivan-PC kernel: [13128.925992] ACPI: Waking up from system sleep state S3
+Apr 10 04:02:48 ivan-PC kernel: [13128.930890] ACPI: EC: interrupt unblocked
+Apr 10 04:02:48 ivan-PC kernel: [13128.994406] ACPI: EC: event unblocked
+Apr 10 07:00:35 ivan-PC kernel: [14448.601923] ACPI: EC: interrupt blocked
+Apr 10 07:00:35 ivan-PC kernel: [14448.642047] ACPI: Preparing to enter system sleep state S3
+Apr 10 07:00:35 ivan-PC kernel: [14448.644170] ACPI: EC: event blocked
+Apr 10 07:00:35 ivan-PC kernel: [14448.644171] ACPI: EC: EC stopped
+Apr 10 07:00:35 ivan-PC kernel: [14448.710045] ACPI: Low-level resume complete
+Apr 10 07:00:35 ivan-PC kernel: [14448.710163] ACPI: EC: EC started
+Apr 10 07:00:35 ivan-PC kernel: [14448.718818] ACPI: Waking up from system sleep state S3
+Apr 10 07:00:35 ivan-PC kernel: [14448.723577] ACPI: EC: interrupt unblocked
+Apr 10 07:00:35 ivan-PC kernel: [14448.823057] ACPI: EC: event unblocked
+Apr 10 07:31:42 ivan-PC kernel: [15925.643391] ACPI: EC: interrupt blocked
+Apr 10 07:31:42 ivan-PC kernel: [15925.687440] ACPI: Preparing to enter system sleep state S3
+Apr 10 07:31:42 ivan-PC kernel: [15925.689560] ACPI: EC: event blocked
+Apr 10 07:31:42 ivan-PC kernel: [15925.689561] ACPI: EC: EC stopped
+Apr 10 07:31:42 ivan-PC kernel: [15925.755286] ACPI: Low-level resume complete
+Apr 10 07:31:42 ivan-PC kernel: [15925.755404] ACPI: EC: EC started
+Apr 10 07:31:42 ivan-PC kernel: [15925.763981] ACPI: Waking up from system sleep state S3
+Apr 10 07:31:42 ivan-PC kernel: [15925.768675] ACPI: EC: interrupt unblocked
+Apr 10 07:31:42 ivan-PC kernel: [15925.844450] ACPI: EC: event unblocked
+Apr 10 08:59:32 ivan-PC kernel: [18440.260548] ACPI: EC: interrupt blocked
+Apr 10 08:59:32 ivan-PC kernel: [18440.300559] ACPI: Preparing to enter system sleep state S3
+Apr 10 08:59:32 ivan-PC kernel: [18440.302540] ACPI: EC: event blocked
+Apr 10 08:59:32 ivan-PC kernel: [18440.302541] ACPI: EC: EC stopped
+Apr 10 08:59:32 ivan-PC kernel: [18440.368442] ACPI: Low-level resume complete
+Apr 10 08:59:32 ivan-PC kernel: [18440.368560] ACPI: EC: EC started
+Apr 10 08:59:32 ivan-PC kernel: [18440.377227] ACPI: Waking up from system sleep state S3
+Apr 10 08:59:32 ivan-PC kernel: [18440.382091] ACPI: EC: interrupt unblocked
+Apr 10 08:59:32 ivan-PC kernel: [18440.481574] ACPI: EC: event unblocked
+Apr 10 10:11:28 ivan-PC kernel: [18470.548194] ACPI: EC: interrupt blocked
+Apr 10 10:11:28 ivan-PC kernel: [18470.588230] ACPI: Preparing to enter system sleep state S3
+Apr 10 10:11:28 ivan-PC kernel: [18470.590382] ACPI: EC: event blocked
+Apr 10 10:11:28 ivan-PC kernel: [18470.590383] ACPI: EC: EC stopped
+Apr 10 10:11:28 ivan-PC kernel: [18470.656062] ACPI: Low-level resume complete
+Apr 10 10:11:28 ivan-PC kernel: [18470.656182] ACPI: EC: EC started
+Apr 10 10:11:28 ivan-PC kernel: [18470.664891] ACPI: Waking up from system sleep state S3
+Apr 10 10:11:28 ivan-PC kernel: [18470.669625] ACPI: EC: interrupt unblocked
+Apr 10 10:11:28 ivan-PC kernel: [18470.765180] ACPI: EC: event unblocked
+Apr 10 10:22:18 ivan-PC kernel: [19050.154518] ACPI: EC: interrupt blocked
+Apr 10 10:22:18 ivan-PC kernel: [19050.198563] ACPI: Preparing to enter system sleep state S3
+Apr 10 10:22:18 ivan-PC kernel: [19050.200682] ACPI: EC: event blocked
+Apr 10 10:22:18 ivan-PC kernel: [19050.200682] ACPI: EC: EC stopped
+Apr 10 10:22:18 ivan-PC kernel: [19050.266409] ACPI: Low-level resume complete
+Apr 10 10:22:18 ivan-PC kernel: [19050.266529] ACPI: EC: EC started
+Apr 10 10:22:18 ivan-PC kernel: [19050.275197] ACPI: Waking up from system sleep state S3
+Apr 10 10:22:18 ivan-PC kernel: [19050.280034] ACPI: EC: interrupt unblocked
+Apr 10 10:22:18 ivan-PC kernel: [19050.375523] ACPI: EC: event unblocked
+Apr 10 10:42:08 ivan-PC kernel: [20164.751559] ACPI: EC: interrupt blocked
+Apr 10 10:42:08 ivan-PC kernel: [20164.795521] ACPI: Preparing to enter system sleep state S3
+Apr 10 10:42:08 ivan-PC kernel: [20164.797570] ACPI: EC: event blocked
+Apr 10 10:42:08 ivan-PC kernel: [20164.797571] ACPI: EC: EC stopped
+Apr 10 10:42:08 ivan-PC kernel: [20164.863583] ACPI: Low-level resume complete
+Apr 10 10:42:08 ivan-PC kernel: [20164.863702] ACPI: EC: EC started
+Apr 10 10:42:08 ivan-PC kernel: [20164.872323] ACPI: Waking up from system sleep state S3
+Apr 10 10:42:08 ivan-PC kernel: [20164.877103] ACPI: EC: interrupt unblocked
+Apr 10 10:42:08 ivan-PC kernel: [20164.972669] ACPI: EC: event unblocked
+Apr 10 12:07:47 ivan-PC kernel: [24074.793342] ACPI: EC: interrupt blocked
+Apr 10 12:07:47 ivan-PC kernel: [24074.836949] ACPI: Preparing to enter system sleep state S3
+Apr 10 12:07:47 ivan-PC kernel: [24074.839088] ACPI: EC: event blocked
+Apr 10 12:07:47 ivan-PC kernel: [24074.839089] ACPI: EC: EC stopped
+Apr 10 12:07:47 ivan-PC kernel: [24074.904838] ACPI: Low-level resume complete
+Apr 10 12:07:47 ivan-PC kernel: [24074.904957] ACPI: EC: EC started
+Apr 10 12:07:47 ivan-PC kernel: [24074.913609] ACPI: Waking up from system sleep state S3
+Apr 10 12:07:47 ivan-PC kernel: [24074.918502] ACPI: EC: interrupt unblocked
+Apr 10 12:07:47 ivan-PC kernel: [24075.017981] ACPI: EC: event unblocked
+Apr 10 20:05:56 ivan-PC kernel: [24714.346559] ACPI: EC: interrupt blocked
+Apr 10 20:05:56 ivan-PC kernel: [24714.386618] ACPI: Preparing to enter system sleep state S3
+Apr 10 20:05:56 ivan-PC kernel: [24714.388812] ACPI: EC: event blocked
+Apr 10 20:05:56 ivan-PC kernel: [24714.388813] ACPI: EC: EC stopped
+Apr 10 20:05:56 ivan-PC kernel: [24714.454474] ACPI: Low-level resume complete
+Apr 10 20:05:56 ivan-PC kernel: [24714.454593] ACPI: EC: EC started
+Apr 10 20:05:56 ivan-PC kernel: [24714.463201] ACPI: Waking up from system sleep state S3
+Apr 10 20:05:56 ivan-PC kernel: [24714.468005] ACPI: EC: interrupt unblocked
+Apr 10 20:05:56 ivan-PC kernel: [24714.563553] ACPI: EC: event unblocked
+Apr 11 01:02:04 ivan-PC kernel: [25256.997122] ACPI: EC: interrupt blocked
+Apr 11 01:02:04 ivan-PC kernel: [25257.040532] ACPI: Preparing to enter system sleep state S3
+Apr 11 01:02:04 ivan-PC kernel: [25257.042680] ACPI: EC: event blocked
+Apr 11 01:02:04 ivan-PC kernel: [25257.042681] ACPI: EC: EC stopped
+Apr 11 01:02:04 ivan-PC kernel: [25257.108417] ACPI: Low-level resume complete
+Apr 11 01:02:04 ivan-PC kernel: [25257.108536] ACPI: EC: EC started
+Apr 11 01:02:04 ivan-PC kernel: [25257.117186] ACPI: Waking up from system sleep state S3
+Apr 11 01:02:04 ivan-PC kernel: [25257.122030] ACPI: EC: interrupt unblocked
+Apr 11 01:02:04 ivan-PC kernel: [25257.221475] ACPI: EC: event unblocked
+Apr 11 02:01:14 ivan-PC kernel: [25469.637896] ACPI: EC: interrupt blocked
+Apr 11 02:01:14 ivan-PC kernel: [25469.677959] ACPI: Preparing to enter system sleep state S3
+Apr 11 02:01:14 ivan-PC kernel: [25469.680173] ACPI: EC: event blocked
+Apr 11 02:01:14 ivan-PC kernel: [25469.680173] ACPI: EC: EC stopped
+Apr 11 02:01:14 ivan-PC kernel: [25469.745944] ACPI: Low-level resume complete
+Apr 11 02:01:14 ivan-PC kernel: [25469.746062] ACPI: EC: EC started
+Apr 11 02:01:14 ivan-PC kernel: [25469.754736] ACPI: Waking up from system sleep state S3
+Apr 11 02:01:14 ivan-PC kernel: [25469.759646] ACPI: EC: interrupt unblocked
+Apr 11 02:01:14 ivan-PC kernel: [25469.858932] ACPI: EC: event unblocked
+Apr 11 02:20:36 ivan-PC kernel: [25660.487487] ACPI: EC: interrupt blocked
+Apr 11 02:20:36 ivan-PC kernel: [25660.531545] ACPI: Preparing to enter system sleep state S3
+Apr 11 02:20:36 ivan-PC kernel: [25660.533724] ACPI: EC: event blocked
+Apr 11 02:20:36 ivan-PC kernel: [25660.533725] ACPI: EC: EC stopped
+Apr 11 02:20:36 ivan-PC kernel: [25660.599576] ACPI: Low-level resume complete
+Apr 11 02:20:36 ivan-PC kernel: [25660.599695] ACPI: EC: EC started
+Apr 11 02:20:36 ivan-PC kernel: [25660.608381] ACPI: Waking up from system sleep state S3
+Apr 11 02:20:36 ivan-PC kernel: [25660.613155] ACPI: EC: interrupt unblocked
+Apr 11 02:20:36 ivan-PC kernel: [25660.712533] ACPI: EC: event unblocked
+Apr 11 03:01:01 ivan-PC kernel: [25690.554835] ACPI: EC: interrupt blocked
+Apr 11 03:01:01 ivan-PC kernel: [25690.594942] ACPI: Preparing to enter system sleep state S3
+Apr 11 03:01:01 ivan-PC kernel: [25690.597061] ACPI: EC: event blocked
+Apr 11 03:01:01 ivan-PC kernel: [25690.597062] ACPI: EC: EC stopped
+Apr 11 03:01:01 ivan-PC kernel: [25690.662746] ACPI: Low-level resume complete
+Apr 11 03:01:01 ivan-PC kernel: [25690.662865] ACPI: EC: EC started
+Apr 11 03:01:01 ivan-PC kernel: [25690.671561] ACPI: Waking up from system sleep state S3
+Apr 11 03:01:01 ivan-PC kernel: [25690.676319] ACPI: EC: interrupt unblocked
+Apr 11 03:01:01 ivan-PC kernel: [25690.771809] ACPI: EC: event unblocked
+Apr 11 05:11:01 ivan-PC kernel: [25808.577263] ACPI: EC: interrupt blocked
+Apr 11 05:11:01 ivan-PC kernel: [25808.621315] ACPI: Preparing to enter system sleep state S3
+Apr 11 05:11:01 ivan-PC kernel: [25808.623479] ACPI: EC: event blocked
+Apr 11 05:11:01 ivan-PC kernel: [25808.623480] ACPI: EC: EC stopped
+Apr 11 05:11:01 ivan-PC kernel: [25808.689198] ACPI: Low-level resume complete
+Apr 11 05:11:01 ivan-PC kernel: [25808.689316] ACPI: EC: EC started
+Apr 11 05:11:01 ivan-PC kernel: [25808.698015] ACPI: Waking up from system sleep state S3
+Apr 11 05:11:01 ivan-PC kernel: [25808.702876] ACPI: EC: interrupt unblocked
+Apr 11 05:11:01 ivan-PC kernel: [25808.798267] ACPI: EC: event unblocked
+Apr 12 02:01:21 ivan-PC kernel: [25942.711529] ACPI: EC: interrupt blocked
+Apr 12 02:01:21 ivan-PC kernel: [25942.751524] ACPI: Preparing to enter system sleep state S3
+Apr 12 02:01:21 ivan-PC kernel: [25942.753650] ACPI: EC: event blocked
+Apr 12 02:01:21 ivan-PC kernel: [25942.753651] ACPI: EC: EC stopped
+Apr 12 02:01:21 ivan-PC kernel: [25942.819386] ACPI: Low-level resume complete
+Apr 12 02:01:21 ivan-PC kernel: [25942.819504] ACPI: EC: EC started
+Apr 12 02:01:21 ivan-PC kernel: [25942.828193] ACPI: Waking up from system sleep state S3
+Apr 12 02:01:21 ivan-PC kernel: [25942.832961] ACPI: EC: interrupt unblocked
+Apr 12 02:01:21 ivan-PC kernel: [25942.928518] ACPI: EC: event unblocked
+Apr 12 03:00:47 ivan-PC kernel: [26075.697767] ACPI: EC: interrupt blocked
+Apr 12 03:00:47 ivan-PC kernel: [26075.737776] ACPI: Preparing to enter system sleep state S3
+Apr 12 03:00:47 ivan-PC kernel: [26075.739916] ACPI: EC: event blocked
+Apr 12 03:00:47 ivan-PC kernel: [26075.739917] ACPI: EC: EC stopped
+Apr 12 03:00:47 ivan-PC kernel: [26075.805776] ACPI: Low-level resume complete
+Apr 12 03:00:47 ivan-PC kernel: [26075.805895] ACPI: EC: EC started
+Apr 12 03:00:47 ivan-PC kernel: [26075.814584] ACPI: Waking up from system sleep state S3
+Apr 12 03:00:47 ivan-PC kernel: [26075.819258] ACPI: EC: interrupt unblocked
+Apr 12 03:00:47 ivan-PC kernel: [26075.914716] ACPI: EC: event unblocked
+Apr 12 04:06:25 ivan-PC kernel: [26212.987865] ACPI: EC: interrupt blocked
+Apr 12 04:06:25 ivan-PC kernel: [26213.031939] ACPI: Preparing to enter system sleep state S3
+Apr 12 04:06:25 ivan-PC kernel: [26213.034107] ACPI: EC: event blocked
+Apr 12 04:06:25 ivan-PC kernel: [26213.034108] ACPI: EC: EC stopped
+Apr 12 04:06:25 ivan-PC kernel: [26213.099814] ACPI: Low-level resume complete
+Apr 12 04:06:25 ivan-PC kernel: [26213.099932] ACPI: EC: EC started
+Apr 12 04:06:25 ivan-PC kernel: [26213.108613] ACPI: Waking up from system sleep state S3
+Apr 12 04:06:25 ivan-PC kernel: [26213.113446] ACPI: EC: interrupt unblocked
+Apr 12 04:06:25 ivan-PC kernel: [26213.208957] ACPI: EC: event unblocked
+Apr 12 04:11:10 ivan-PC kernel: [26461.652794] ACPI: EC: interrupt blocked
+Apr 12 04:11:10 ivan-PC kernel: [26461.745268] ACPI: EC: interrupt unblocked
+Apr 12 04:11:10 ivan-PC kernel: [26466.503191] ACPI: EC: interrupt blocked
+Apr 12 04:11:10 ivan-PC kernel: [26466.543296] ACPI: Preparing to enter system sleep state S3
+Apr 12 04:11:10 ivan-PC kernel: [26466.545237] ACPI: EC: event blocked
+Apr 12 04:11:10 ivan-PC kernel: [26466.545238] ACPI: EC: EC stopped
+Apr 12 04:11:10 ivan-PC kernel: [26466.610892] ACPI: Low-level resume complete
+Apr 12 04:11:10 ivan-PC kernel: [26466.611011] ACPI: EC: EC started
+Apr 12 04:11:10 ivan-PC kernel: [26466.619708] ACPI: Waking up from system sleep state S3
+Apr 12 04:11:10 ivan-PC kernel: [26466.624859] ACPI: EC: interrupt unblocked
+Apr 12 04:11:10 ivan-PC kernel: [26466.724469] ACPI: EC: event unblocked
+Apr 12 08:14:19 ivan-PC kernel: [34432.711426] ACPI: EC: interrupt blocked
+Apr 12 08:14:19 ivan-PC kernel: [34432.755399] ACPI: Preparing to enter system sleep state S3
+Apr 12 08:14:19 ivan-PC kernel: [34432.757523] ACPI: EC: event blocked
+Apr 12 08:14:19 ivan-PC kernel: [34432.757524] ACPI: EC: EC stopped
+Apr 12 08:14:19 ivan-PC kernel: [34432.823277] ACPI: Low-level resume complete
+Apr 12 08:14:19 ivan-PC kernel: [34432.823395] ACPI: EC: EC started
+Apr 12 08:14:19 ivan-PC kernel: [34432.832021] ACPI: Waking up from system sleep state S3
+Apr 12 08:14:19 ivan-PC kernel: [34432.836843] ACPI: EC: interrupt unblocked
+Apr 12 08:14:19 ivan-PC kernel: [34432.932475] ACPI: EC: event unblocked
+Apr 12 18:51:51 ivan-PC kernel: [65447.879946] ACPI: EC: interrupt blocked
+Apr 12 18:51:51 ivan-PC kernel: [65447.919511] ACPI: Preparing to enter system sleep state S3
+Apr 12 18:51:51 ivan-PC kernel: [65447.921729] ACPI: EC: event blocked
+Apr 12 18:51:51 ivan-PC kernel: [65447.921730] ACPI: EC: EC stopped
+Apr 12 18:51:51 ivan-PC kernel: [65447.987396] ACPI: Low-level resume complete
+Apr 12 18:51:51 ivan-PC kernel: [65447.987514] ACPI: EC: EC started
+Apr 12 18:51:51 ivan-PC kernel: [65447.996174] ACPI: Waking up from system sleep state S3
+Apr 12 18:51:51 ivan-PC kernel: [65448.001020] ACPI: EC: interrupt unblocked
+Apr 12 18:51:51 ivan-PC kernel: [65448.100505] ACPI: EC: event unblocked
+Apr 12 22:46:09 ivan-PC kernel: [67763.435011] ACPI: EC: interrupt blocked
+Apr 12 22:46:09 ivan-PC kernel: [67763.479015] ACPI: Preparing to enter system sleep state S3
+Apr 12 22:46:09 ivan-PC kernel: [67763.481188] ACPI: EC: event blocked
+Apr 12 22:46:09 ivan-PC kernel: [67763.481189] ACPI: EC: EC stopped
+Apr 12 22:46:09 ivan-PC kernel: [67763.546905] ACPI: Low-level resume complete
+Apr 12 22:46:09 ivan-PC kernel: [67763.547023] ACPI: EC: EC started
+Apr 12 22:46:09 ivan-PC kernel: [67763.555672] ACPI: Waking up from system sleep state S3
+Apr 12 22:46:09 ivan-PC kernel: [67763.560496] ACPI: EC: interrupt unblocked
+Apr 12 22:46:09 ivan-PC kernel: [67763.655995] ACPI: EC: event unblocked
+Apr 12 23:28:43 ivan-PC kernel: [67793.815101] ACPI: EC: interrupt blocked
+Apr 12 23:28:43 ivan-PC kernel: [67793.855136] ACPI: Preparing to enter system sleep state S3
+Apr 12 23:28:43 ivan-PC kernel: [67793.857105] ACPI: EC: event blocked
+Apr 12 23:28:43 ivan-PC kernel: [67793.857106] ACPI: EC: EC stopped
+Apr 12 23:28:43 ivan-PC kernel: [67793.922938] ACPI: Low-level resume complete
+Apr 12 23:28:43 ivan-PC kernel: [67793.923056] ACPI: EC: EC started
+Apr 12 23:28:43 ivan-PC kernel: [67793.931748] ACPI: Waking up from system sleep state S3
+Apr 12 23:28:43 ivan-PC kernel: [67793.936715] ACPI: EC: interrupt unblocked
+Apr 12 23:28:43 ivan-PC kernel: [67794.032115] ACPI: EC: event unblocked
+Apr 13 06:01:24 ivan-PC kernel: [68136.785901] ACPI: EC: interrupt blocked
+Apr 13 06:01:24 ivan-PC kernel: [68136.825918] ACPI: Preparing to enter system sleep state S3
+Apr 13 06:01:24 ivan-PC kernel: [68136.828060] ACPI: EC: event blocked
+Apr 13 06:01:24 ivan-PC kernel: [68136.828061] ACPI: EC: EC stopped
+Apr 13 06:01:24 ivan-PC kernel: [68136.893790] ACPI: Low-level resume complete
+Apr 13 06:01:24 ivan-PC kernel: [68136.893909] ACPI: EC: EC started
+Apr 13 06:01:24 ivan-PC kernel: [68136.902570] ACPI: Waking up from system sleep state S3
+Apr 13 06:01:24 ivan-PC kernel: [68136.907245] ACPI: EC: interrupt unblocked
+Apr 13 06:01:24 ivan-PC kernel: [68137.007001] ACPI: EC: event unblocked
+Apr 13 09:44:24 ivan-PC kernel: [68284.706804] ACPI: EC: interrupt blocked
+Apr 13 09:44:24 ivan-PC kernel: [68284.750737] ACPI: Preparing to enter system sleep state S3
+Apr 13 09:44:24 ivan-PC kernel: [68284.752872] ACPI: EC: event blocked
+Apr 13 09:44:24 ivan-PC kernel: [68284.752873] ACPI: EC: EC stopped
+Apr 13 09:44:24 ivan-PC kernel: [68284.826574] ACPI: Low-level resume complete
+Apr 13 09:44:24 ivan-PC kernel: [68284.826692] ACPI: EC: EC started
+Apr 13 09:44:24 ivan-PC kernel: [68284.835391] ACPI: Waking up from system sleep state S3
+Apr 13 09:44:24 ivan-PC kernel: [68284.840184] ACPI: EC: interrupt unblocked
+Apr 13 09:44:24 ivan-PC kernel: [68284.939780] ACPI: EC: event unblocked
+Apr 13 12:46:57 ivan-PC kernel: [74451.294602] ACPI: EC: interrupt blocked
+Apr 13 12:46:57 ivan-PC kernel: [74451.338099] ACPI: Preparing to enter system sleep state S3
+Apr 13 12:46:57 ivan-PC kernel: [74451.340487] ACPI: EC: event blocked
+Apr 13 12:46:57 ivan-PC kernel: [74451.340488] ACPI: EC: EC stopped
+Apr 13 12:46:57 ivan-PC kernel: [74451.406101] ACPI: Low-level resume complete
+Apr 13 12:46:57 ivan-PC kernel: [74451.406219] ACPI: EC: EC started
+Apr 13 12:46:57 ivan-PC kernel: [74451.414880] ACPI: Waking up from system sleep state S3
+Apr 13 12:46:57 ivan-PC kernel: [74451.419730] ACPI: EC: interrupt unblocked
+Apr 13 12:46:57 ivan-PC kernel: [74451.503164] ACPI: EC: event unblocked
+Apr 13 15:12:04 ivan-PC kernel: [80810.757813] ACPI: EC: interrupt blocked
+Apr 13 15:12:04 ivan-PC kernel: [80810.797821] ACPI: Preparing to enter system sleep state S3
+Apr 13 15:12:04 ivan-PC kernel: [80810.799952] ACPI: EC: event blocked
+Apr 13 15:12:04 ivan-PC kernel: [80810.799953] ACPI: EC: EC stopped
+Apr 13 15:12:04 ivan-PC kernel: [80810.865729] ACPI: Low-level resume complete
+Apr 13 15:12:04 ivan-PC kernel: [80810.865847] ACPI: EC: EC started
+Apr 13 15:12:04 ivan-PC kernel: [80810.874536] ACPI: Waking up from system sleep state S3
+Apr 13 15:12:04 ivan-PC kernel: [80810.879337] ACPI: EC: interrupt unblocked
+Apr 13 15:12:04 ivan-PC kernel: [80810.978935] ACPI: EC: event unblocked
+Apr 13 17:30:29 ivan-PC kernel: [84254.601780] ACPI: EC: interrupt blocked
+Apr 13 17:30:29 ivan-PC kernel: [84254.641709] ACPI: Preparing to enter system sleep state S3
+Apr 13 17:30:29 ivan-PC kernel: [84254.643678] ACPI: EC: event blocked
+Apr 13 17:30:29 ivan-PC kernel: [84254.643679] ACPI: EC: EC stopped
+Apr 13 17:30:29 ivan-PC kernel: [84254.709778] ACPI: Low-level resume complete
+Apr 13 17:30:29 ivan-PC kernel: [84254.709897] ACPI: EC: EC started
+Apr 13 17:30:29 ivan-PC kernel: [84254.718568] ACPI: Waking up from system sleep state S3
+Apr 13 17:30:29 ivan-PC kernel: [84254.723351] ACPI: EC: interrupt unblocked
+Apr 13 17:30:29 ivan-PC kernel: [84254.822808] ACPI: EC: event unblocked
+Apr 13 19:24:56 ivan-PC kernel: [88901.270382] ACPI: EC: interrupt blocked
+Apr 13 19:24:56 ivan-PC kernel: [88901.310426] ACPI: Preparing to enter system sleep state S3
+Apr 13 19:24:56 ivan-PC kernel: [88901.312549] ACPI: EC: event blocked
+Apr 13 19:24:56 ivan-PC kernel: [88901.312550] ACPI: EC: EC stopped
+Apr 13 19:24:56 ivan-PC kernel: [88901.378314] ACPI: Low-level resume complete
+Apr 13 19:24:56 ivan-PC kernel: [88901.378431] ACPI: EC: EC started
+Apr 13 19:24:56 ivan-PC kernel: [88901.387102] ACPI: Waking up from system sleep state S3
+Apr 13 19:24:56 ivan-PC kernel: [88901.392028] ACPI: EC: interrupt unblocked
+Apr 13 19:24:56 ivan-PC kernel: [88901.491476] ACPI: EC: event unblocked
+Apr 14 04:01:48 ivan-PC kernel: [89241.819160] ACPI: EC: interrupt blocked
+Apr 14 04:01:48 ivan-PC kernel: [89241.859302] ACPI: Preparing to enter system sleep state S3
+Apr 14 04:01:48 ivan-PC kernel: [89241.861472] ACPI: EC: event blocked
+Apr 14 04:01:48 ivan-PC kernel: [89241.861473] ACPI: EC: EC stopped
+Apr 14 04:01:48 ivan-PC kernel: [89241.927153] ACPI: Low-level resume complete
+Apr 14 04:01:48 ivan-PC kernel: [89241.927272] ACPI: EC: EC started
+Apr 14 04:01:48 ivan-PC kernel: [89241.935937] ACPI: Waking up from system sleep state S3
+Apr 14 04:01:48 ivan-PC kernel: [89241.940704] ACPI: EC: interrupt unblocked
+Apr 14 04:01:48 ivan-PC kernel: [89242.036340] ACPI: EC: event unblocked
+Apr 14 04:21:39 ivan-PC kernel: [89399.980532] ACPI: EC: interrupt blocked
+Apr 14 04:21:39 ivan-PC kernel: [89400.020611] ACPI: Preparing to enter system sleep state S3
+Apr 14 04:21:39 ivan-PC kernel: [89400.022748] ACPI: EC: event blocked
+Apr 14 04:21:39 ivan-PC kernel: [89400.022749] ACPI: EC: EC stopped
+Apr 14 04:21:39 ivan-PC kernel: [89400.088466] ACPI: Low-level resume complete
+Apr 14 04:21:39 ivan-PC kernel: [89400.088585] ACPI: EC: EC started
+Apr 14 04:21:39 ivan-PC kernel: [89400.097301] ACPI: Waking up from system sleep state S3
+Apr 14 04:21:39 ivan-PC kernel: [89400.102163] ACPI: EC: interrupt unblocked
+Apr 14 04:21:39 ivan-PC kernel: [89400.197600] ACPI: EC: event unblocked
+Apr 14 06:57:43 ivan-PC kernel: [89495.038597] ACPI: EC: interrupt blocked
+Apr 14 06:57:43 ivan-PC kernel: [89495.078644] ACPI: Preparing to enter system sleep state S3
+Apr 14 06:57:43 ivan-PC kernel: [89495.080873] ACPI: EC: event blocked
+Apr 14 06:57:43 ivan-PC kernel: [89495.080874] ACPI: EC: EC stopped
+Apr 14 06:57:43 ivan-PC kernel: [89495.146517] ACPI: Low-level resume complete
+Apr 14 06:57:43 ivan-PC kernel: [89495.146635] ACPI: EC: EC started
+Apr 14 06:57:43 ivan-PC kernel: [89495.155343] ACPI: Waking up from system sleep state S3
+Apr 14 06:57:43 ivan-PC kernel: [89495.160213] ACPI: EC: interrupt unblocked
+Apr 14 06:57:43 ivan-PC kernel: [89495.255744] ACPI: EC: event unblocked
+Apr 14 07:15:49 ivan-PC kernel: [89602.596266] ACPI: EC: interrupt blocked
+Apr 14 07:15:49 ivan-PC kernel: [89602.636317] ACPI: Preparing to enter system sleep state S3
+Apr 14 07:15:49 ivan-PC kernel: [89602.638542] ACPI: EC: event blocked
+Apr 14 07:15:49 ivan-PC kernel: [89602.638543] ACPI: EC: EC stopped
+Apr 14 07:15:49 ivan-PC kernel: [89602.704217] ACPI: Low-level resume complete
+Apr 14 07:15:49 ivan-PC kernel: [89602.704335] ACPI: EC: EC started
+Apr 14 07:15:49 ivan-PC kernel: [89602.713049] ACPI: Waking up from system sleep state S3
+Apr 14 07:15:49 ivan-PC kernel: [89602.717902] ACPI: EC: interrupt unblocked
+Apr 14 07:15:49 ivan-PC kernel: [89602.797323] ACPI: EC: event unblocked
+Apr 14 16:09:57 ivan-PC kernel: [121181.981399] ACPI: EC: interrupt blocked
+Apr 14 16:09:57 ivan-PC kernel: [121182.021461] ACPI: Preparing to enter system sleep state S3
+Apr 14 16:09:57 ivan-PC kernel: [121182.023586] ACPI: EC: event blocked
+Apr 14 16:09:57 ivan-PC kernel: [121182.023587] ACPI: EC: EC stopped
+Apr 14 16:09:57 ivan-PC kernel: [121182.089359] ACPI: Low-level resume complete
+Apr 14 16:09:57 ivan-PC kernel: [121182.089478] ACPI: EC: EC started
+Apr 14 16:09:57 ivan-PC kernel: [121182.098136] ACPI: Waking up from system sleep state S3
+Apr 14 16:09:57 ivan-PC kernel: [121182.103024] ACPI: EC: interrupt unblocked
+Apr 14 16:09:57 ivan-PC kernel: [121182.202528] ACPI: EC: event unblocked
+Apr 14 18:44:25 ivan-PC kernel: [130337.984841] ACPI: EC: interrupt blocked
+Apr 14 18:44:25 ivan-PC kernel: [130338.024896] ACPI: Preparing to enter system sleep state S3
+Apr 14 18:44:25 ivan-PC kernel: [130338.026913] ACPI: EC: event blocked
+Apr 14 18:44:25 ivan-PC kernel: [130338.026914] ACPI: EC: EC stopped
+Apr 14 18:44:25 ivan-PC kernel: [130338.093002] ACPI: Low-level resume complete
+Apr 14 18:44:25 ivan-PC kernel: [130338.093120] ACPI: EC: EC started
+Apr 14 18:44:25 ivan-PC kernel: [130338.101799] ACPI: Waking up from system sleep state S3
+Apr 14 18:44:25 ivan-PC kernel: [130338.106574] ACPI: EC: interrupt unblocked
+Apr 14 18:44:25 ivan-PC kernel: [130338.185938] ACPI: EC: event unblocked
+Apr 14 22:02:52 ivan-PC kernel: [131736.055618] ACPI: EC: interrupt blocked
+Apr 14 22:02:52 ivan-PC kernel: [131736.095660] ACPI: Preparing to enter system sleep state S3
+Apr 14 22:02:52 ivan-PC kernel: [131736.097795] ACPI: EC: event blocked
+Apr 14 22:02:52 ivan-PC kernel: [131736.097796] ACPI: EC: EC stopped
+Apr 14 22:02:52 ivan-PC kernel: [131736.171724] ACPI: Low-level resume complete
+Apr 14 22:02:52 ivan-PC kernel: [131736.171842] ACPI: EC: EC started
+Apr 14 22:02:52 ivan-PC kernel: [131736.180497] ACPI: Waking up from system sleep state S3
+Apr 14 22:02:52 ivan-PC kernel: [131736.185391] ACPI: EC: interrupt unblocked
+Apr 14 22:02:52 ivan-PC kernel: [131736.284682] ACPI: EC: event unblocked
+Apr 15 00:43:15 ivan-PC kernel: [141223.231536] ACPI: EC: interrupt blocked
+Apr 15 00:43:15 ivan-PC kernel: [141223.275428] ACPI: Preparing to enter system sleep state S3
+Apr 15 00:43:15 ivan-PC kernel: [141223.277561] ACPI: EC: event blocked
+Apr 15 00:43:15 ivan-PC kernel: [141223.277562] ACPI: EC: EC stopped
+Apr 15 00:43:15 ivan-PC kernel: [141223.351549] ACPI: Low-level resume complete
+Apr 15 00:43:15 ivan-PC kernel: [141223.351666] ACPI: EC: EC started
+Apr 15 00:43:15 ivan-PC kernel: [141223.360329] ACPI: Waking up from system sleep state S3
+Apr 15 00:43:15 ivan-PC kernel: [141223.365225] ACPI: EC: interrupt unblocked
+Apr 15 00:43:15 ivan-PC kernel: [141223.464584] ACPI: EC: event unblocked
+Apr 15 01:01:06 ivan-PC kernel: [141322.566498] ACPI: EC: interrupt blocked
+Apr 15 01:01:06 ivan-PC kernel: [141322.610530] ACPI: Preparing to enter system sleep state S3
+Apr 15 01:01:06 ivan-PC kernel: [141322.612715] ACPI: EC: event blocked
+Apr 15 01:01:06 ivan-PC kernel: [141322.612717] ACPI: EC: EC stopped
+Apr 15 01:01:06 ivan-PC kernel: [141322.678366] ACPI: Low-level resume complete
+Apr 15 01:01:06 ivan-PC kernel: [141322.678483] ACPI: EC: EC started
+Apr 15 01:01:06 ivan-PC kernel: [141322.687216] ACPI: Waking up from system sleep state S3
+Apr 15 01:01:06 ivan-PC kernel: [141322.691862] ACPI: EC: interrupt unblocked
+Apr 15 01:01:06 ivan-PC kernel: [141322.787555] ACPI: EC: event unblocked
+Apr 15 03:31:31 ivan-PC kernel: [145360.535922] ACPI: EC: interrupt blocked
+Apr 15 03:31:31 ivan-PC kernel: [145360.575961] ACPI: Preparing to enter system sleep state S3
+Apr 15 03:31:31 ivan-PC kernel: [145360.578096] ACPI: EC: event blocked
+Apr 15 03:31:31 ivan-PC kernel: [145360.578097] ACPI: EC: EC stopped
+Apr 15 03:31:31 ivan-PC kernel: [145360.652025] ACPI: Low-level resume complete
+Apr 15 03:31:31 ivan-PC kernel: [145360.652144] ACPI: EC: EC started
+Apr 15 03:31:31 ivan-PC kernel: [145360.660800] ACPI: Waking up from system sleep state S3
+Apr 15 03:31:31 ivan-PC kernel: [145360.665578] ACPI: EC: interrupt unblocked
+Apr 15 03:31:31 ivan-PC kernel: [145360.765147] ACPI: EC: event unblocked
+Apr 15 04:20:53 ivan-PC kernel: [146647.640451] ACPI: EC: interrupt blocked
+Apr 15 04:20:53 ivan-PC kernel: [146647.680461] ACPI: Preparing to enter system sleep state S3
+Apr 15 04:20:53 ivan-PC kernel: [146647.682529] ACPI: EC: event blocked
+Apr 15 04:20:53 ivan-PC kernel: [146647.682529] ACPI: EC: EC stopped
+Apr 15 04:20:53 ivan-PC kernel: [146647.748337] ACPI: Low-level resume complete
+Apr 15 04:20:53 ivan-PC kernel: [146647.748455] ACPI: EC: EC started
+Apr 15 04:20:53 ivan-PC kernel: [146647.757134] ACPI: Waking up from system sleep state S3
+Apr 15 04:20:53 ivan-PC kernel: [146647.761974] ACPI: EC: interrupt unblocked
+Apr 15 04:20:53 ivan-PC kernel: [146647.861547] ACPI: EC: event unblocked
+Apr 15 07:09:47 ivan-PC kernel: [148335.851143] ACPI: EC: interrupt blocked
+Apr 15 07:09:47 ivan-PC kernel: [148335.891154] ACPI: Preparing to enter system sleep state S3
+Apr 15 07:09:47 ivan-PC kernel: [148335.893140] ACPI: EC: event blocked
+Apr 15 07:09:47 ivan-PC kernel: [148335.893141] ACPI: EC: EC stopped
+Apr 15 07:09:47 ivan-PC kernel: [148335.959056] ACPI: Low-level resume complete
+Apr 15 07:09:47 ivan-PC kernel: [148335.959175] ACPI: EC: EC started
+Apr 15 07:09:47 ivan-PC kernel: [148335.967849] ACPI: Waking up from system sleep state S3
+Apr 15 07:09:47 ivan-PC kernel: [148335.972721] ACPI: EC: interrupt unblocked
+Apr 15 07:09:47 ivan-PC kernel: [148336.052322] ACPI: EC: event unblocked
+Apr 15 12:52:01 ivan-PC kernel: [168705.462620] ACPI: EC: interrupt blocked
+Apr 15 12:52:01 ivan-PC kernel: [168705.502350] ACPI: Preparing to enter system sleep state S3
+Apr 15 12:52:01 ivan-PC kernel: [168705.504475] ACPI: EC: event blocked
+Apr 15 12:52:01 ivan-PC kernel: [168705.504476] ACPI: EC: EC stopped
+Apr 15 12:52:01 ivan-PC kernel: [168705.570376] ACPI: Low-level resume complete
+Apr 15 12:52:01 ivan-PC kernel: [168705.570496] ACPI: EC: EC started
+Apr 15 12:52:01 ivan-PC kernel: [168705.579141] ACPI: Waking up from system sleep state S3
+Apr 15 12:52:01 ivan-PC kernel: [168705.583980] ACPI: EC: interrupt unblocked
+Apr 15 12:52:01 ivan-PC kernel: [168705.683515] ACPI: EC: event unblocked
+Apr 15 18:26:54 ivan-PC kernel: [172885.117283] ACPI: EC: interrupt blocked
+Apr 15 18:26:54 ivan-PC kernel: [172885.157435] ACPI: Preparing to enter system sleep state S3
+Apr 15 18:26:54 ivan-PC kernel: [172885.159631] ACPI: EC: event blocked
+Apr 15 18:26:54 ivan-PC kernel: [172885.159632] ACPI: EC: EC stopped
+Apr 15 18:26:54 ivan-PC kernel: [172885.233413] ACPI: Low-level resume complete
+Apr 15 18:26:54 ivan-PC kernel: [172885.233532] ACPI: EC: EC started
+Apr 15 18:26:54 ivan-PC kernel: [172885.242180] ACPI: Waking up from system sleep state S3
+Apr 15 18:26:54 ivan-PC kernel: [172885.246984] ACPI: EC: interrupt unblocked
+Apr 15 18:26:54 ivan-PC kernel: [172885.350467] ACPI: EC: event unblocked
+Apr 15 23:09:02 ivan-PC kernel: [174531.004104] ACPI: EC: interrupt blocked
+Apr 15 23:09:02 ivan-PC kernel: [174531.044166] ACPI: Preparing to enter system sleep state S3
+Apr 15 23:09:02 ivan-PC kernel: [174531.046212] ACPI: EC: event blocked
+Apr 15 23:09:02 ivan-PC kernel: [174531.046213] ACPI: EC: EC stopped
+Apr 15 23:09:02 ivan-PC kernel: [174531.112127] ACPI: Low-level resume complete
+Apr 15 23:09:02 ivan-PC kernel: [174531.112246] ACPI: EC: EC started
+Apr 15 23:09:02 ivan-PC kernel: [174531.120912] ACPI: Waking up from system sleep state S3
+Apr 15 23:09:02 ivan-PC kernel: [174531.125653] ACPI: EC: interrupt unblocked
+Apr 15 23:09:02 ivan-PC kernel: [174531.205429] ACPI: EC: event unblocked
+Apr 16 07:39:27 ivan-PC kernel: [180420.469217] ACPI: EC: interrupt blocked
+Apr 16 07:39:27 ivan-PC kernel: [180420.509237] ACPI: Preparing to enter system sleep state S3
+Apr 16 07:39:27 ivan-PC kernel: [180420.511407] ACPI: EC: event blocked
+Apr 16 07:39:27 ivan-PC kernel: [180420.511408] ACPI: EC: EC stopped
+Apr 16 07:39:27 ivan-PC kernel: [180420.577079] ACPI: Low-level resume complete
+Apr 16 07:39:27 ivan-PC kernel: [180420.577196] ACPI: EC: EC started
+Apr 16 07:39:27 ivan-PC kernel: [180420.585868] ACPI: Waking up from system sleep state S3
+Apr 16 07:39:27 ivan-PC kernel: [180420.590743] ACPI: EC: interrupt unblocked
+Apr 16 07:39:27 ivan-PC kernel: [180420.690278] ACPI: EC: event unblocked
+Apr 17 01:31:39 ivan-PC kernel: [236575.264587] ACPI: EC: interrupt blocked
+Apr 17 01:31:39 ivan-PC kernel: [236575.308627] ACPI: Preparing to enter system sleep state S3
+Apr 17 01:31:39 ivan-PC kernel: [236575.310804] ACPI: EC: event blocked
+Apr 17 01:31:39 ivan-PC kernel: [236575.310805] ACPI: EC: EC stopped
+Apr 17 01:31:39 ivan-PC kernel: [236575.376545] ACPI: Low-level resume complete
+Apr 17 01:31:39 ivan-PC kernel: [236575.376663] ACPI: EC: EC started
+Apr 17 01:31:39 ivan-PC kernel: [236575.385341] ACPI: Waking up from system sleep state S3
+Apr 17 01:31:39 ivan-PC kernel: [236575.390099] ACPI: EC: interrupt unblocked
+Apr 17 01:31:39 ivan-PC kernel: [236575.489734] ACPI: EC: event unblocked
+Apr 17 02:01:20 ivan-PC kernel: [236830.884311] ACPI: EC: interrupt blocked
+Apr 17 02:01:20 ivan-PC kernel: [236830.924352] ACPI: Preparing to enter system sleep state S3
+Apr 17 02:01:20 ivan-PC kernel: [236830.926476] ACPI: EC: event blocked
+Apr 17 02:01:20 ivan-PC kernel: [236830.926477] ACPI: EC: EC stopped
+Apr 17 02:01:20 ivan-PC kernel: [236830.992194] ACPI: Low-level resume complete
+Apr 17 02:01:20 ivan-PC kernel: [236830.992312] ACPI: EC: EC started
+Apr 17 02:01:20 ivan-PC kernel: [236831.001024] ACPI: Waking up from system sleep state S3
+Apr 17 02:01:20 ivan-PC kernel: [236831.005826] ACPI: EC: interrupt unblocked
+Apr 17 02:01:20 ivan-PC kernel: [236831.101305] ACPI: EC: event unblocked
+Apr 17 09:58:32 ivan-PC kernel: [261223.595196] ACPI: EC: interrupt blocked
+Apr 17 09:58:32 ivan-PC kernel: [261223.635219] ACPI: Preparing to enter system sleep state S3
+Apr 17 09:58:32 ivan-PC kernel: [261223.637341] ACPI: EC: event blocked
+Apr 17 09:58:32 ivan-PC kernel: [261223.637342] ACPI: EC: EC stopped
+Apr 17 09:58:32 ivan-PC kernel: [261223.703184] ACPI: Low-level resume complete
+Apr 17 09:58:32 ivan-PC kernel: [261223.703302] ACPI: EC: EC started
+Apr 17 09:58:32 ivan-PC kernel: [261223.711912] ACPI: Waking up from system sleep state S3
+Apr 17 09:58:32 ivan-PC kernel: [261223.716670] ACPI: EC: interrupt unblocked
+Apr 17 09:58:32 ivan-PC kernel: [261223.812199] ACPI: EC: event unblocked
+Apr 17 10:05:50 ivan-PC kernel: [261536.881979] ACPI: EC: interrupt blocked
+Apr 17 10:05:50 ivan-PC kernel: [261536.925491] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:05:50 ivan-PC kernel: [261536.927694] ACPI: EC: event blocked
+Apr 17 10:05:50 ivan-PC kernel: [261536.927695] ACPI: EC: EC stopped
+Apr 17 10:05:50 ivan-PC kernel: [261536.993335] ACPI: Low-level resume complete
+Apr 17 10:05:50 ivan-PC kernel: [261536.993453] ACPI: EC: EC started
+Apr 17 10:05:50 ivan-PC kernel: [261537.002153] ACPI: Waking up from system sleep state S3
+Apr 17 10:05:50 ivan-PC kernel: [261537.006943] ACPI: EC: interrupt unblocked
+Apr 17 10:05:50 ivan-PC kernel: [261537.102432] ACPI: EC: event unblocked
+Apr 17 10:28:07 ivan-PC kernel: [262392.148777] ACPI: EC: interrupt blocked
+Apr 17 10:28:07 ivan-PC kernel: [262392.192745] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:28:07 ivan-PC kernel: [262392.194724] ACPI: EC: event blocked
+Apr 17 10:28:07 ivan-PC kernel: [262392.194725] ACPI: EC: EC stopped
+Apr 17 10:28:07 ivan-PC kernel: [262392.260666] ACPI: Low-level resume complete
+Apr 17 10:28:07 ivan-PC kernel: [262392.260786] ACPI: EC: EC started
+Apr 17 10:28:07 ivan-PC kernel: [262392.269455] ACPI: Waking up from system sleep state S3
+Apr 17 10:28:07 ivan-PC kernel: [262392.274303] ACPI: EC: interrupt unblocked
+Apr 17 10:28:07 ivan-PC kernel: [262392.369919] ACPI: EC: event unblocked
+Apr 17 10:28:56 ivan-PC kernel: [262422.704296] ACPI: EC: interrupt blocked
+Apr 17 10:28:56 ivan-PC kernel: [262422.744404] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:28:56 ivan-PC kernel: [262422.746539] ACPI: EC: event blocked
+Apr 17 10:28:56 ivan-PC kernel: [262422.746540] ACPI: EC: EC stopped
+Apr 17 10:28:56 ivan-PC kernel: [262422.812241] ACPI: Low-level resume complete
+Apr 17 10:28:56 ivan-PC kernel: [262422.812359] ACPI: EC: EC started
+Apr 17 10:28:56 ivan-PC kernel: [262422.821067] ACPI: Waking up from system sleep state S3
+Apr 17 10:28:56 ivan-PC kernel: [262422.825914] ACPI: EC: interrupt unblocked
+Apr 17 10:28:56 ivan-PC kernel: [262422.921292] ACPI: EC: event unblocked
+Apr 17 10:34:06 ivan-PC kernel: [262477.511719] ACPI: EC: interrupt blocked
+Apr 17 10:34:06 ivan-PC kernel: [262477.551804] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:34:06 ivan-PC kernel: [262477.553952] ACPI: EC: event blocked
+Apr 17 10:34:06 ivan-PC kernel: [262477.553953] ACPI: EC: EC stopped
+Apr 17 10:34:06 ivan-PC kernel: [262477.619735] ACPI: Low-level resume complete
+Apr 17 10:34:06 ivan-PC kernel: [262477.619853] ACPI: EC: EC started
+Apr 17 10:34:06 ivan-PC kernel: [262477.628558] ACPI: Waking up from system sleep state S3
+Apr 17 10:34:06 ivan-PC kernel: [262477.633353] ACPI: EC: interrupt unblocked
+Apr 17 10:34:06 ivan-PC kernel: [262477.732794] ACPI: EC: event unblocked
+Apr 17 10:35:04 ivan-PC kernel: [262507.743298] ACPI: EC: interrupt blocked
+Apr 17 10:35:04 ivan-PC kernel: [262507.787342] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:35:04 ivan-PC kernel: [262507.789459] ACPI: EC: event blocked
+Apr 17 10:35:04 ivan-PC kernel: [262507.789460] ACPI: EC: EC stopped
+Apr 17 10:35:04 ivan-PC kernel: [262507.855295] ACPI: Low-level resume complete
+Apr 17 10:35:04 ivan-PC kernel: [262507.855413] ACPI: EC: EC started
+Apr 17 10:35:04 ivan-PC kernel: [262507.864169] ACPI: Waking up from system sleep state S3
+Apr 17 10:35:04 ivan-PC kernel: [262507.869046] ACPI: EC: interrupt unblocked
+Apr 17 10:35:04 ivan-PC kernel: [262507.968383] ACPI: EC: event unblocked
+Apr 17 10:39:55 ivan-PC kernel: [262543.758805] ACPI: EC: interrupt blocked
+Apr 17 10:39:55 ivan-PC kernel: [262543.798866] ACPI: Preparing to enter system sleep state S3
+Apr 17 10:39:55 ivan-PC kernel: [262543.800995] ACPI: EC: event blocked
+Apr 17 10:39:55 ivan-PC kernel: [262543.800996] ACPI: EC: EC stopped
+Apr 17 10:39:55 ivan-PC kernel: [262543.866681] ACPI: Low-level resume complete
+Apr 17 10:39:55 ivan-PC kernel: [262543.866799] ACPI: EC: EC started
+Apr 17 10:39:55 ivan-PC kernel: [262543.875558] ACPI: Waking up from system sleep state S3
+Apr 17 10:39:55 ivan-PC kernel: [262543.880285] ACPI: EC: interrupt unblocked
+Apr 17 10:39:55 ivan-PC kernel: [262543.975807] ACPI: EC: event unblocked
+Apr 17 19:08:56 ivan-PC kernel: [266818.813273] ACPI: EC: interrupt blocked
+Apr 17 19:08:56 ivan-PC kernel: [266818.853317] ACPI: Preparing to enter system sleep state S3
+Apr 17 19:08:56 ivan-PC kernel: [266818.855514] ACPI: EC: event blocked
+Apr 17 19:08:56 ivan-PC kernel: [266818.855515] ACPI: EC: EC stopped
+Apr 17 19:08:56 ivan-PC kernel: [266818.925208] ACPI: Low-level resume complete
+Apr 17 19:08:56 ivan-PC kernel: [266818.925327] ACPI: EC: EC started
+Apr 17 19:08:56 ivan-PC kernel: [266818.933998] ACPI: Waking up from system sleep state S3
+Apr 17 19:08:56 ivan-PC kernel: [266818.938805] ACPI: EC: interrupt unblocked
+Apr 17 19:08:56 ivan-PC kernel: [266819.038413] ACPI: EC: event unblocked
+Apr 17 01:31:39 ivan-PC kernel: [236575.264587] ACPI: EC: interrupt blocked
+Apr 17 01:31:39 ivan-PC kernel: [236575.308627] ACPI: Preparing to enter system sleep state S3
+Apr 17 01:31:39 ivan-PC kernel: [236575.310804] ACPI: EC: event blocked
+Apr 17 01:31:39 ivan-PC kernel: [236575.310805] ACPI: EC: EC stopped
+Apr 17 01:31:39 ivan-PC kernel: [236575.376545] ACPI: Low-level resume complete
+Apr 17 01:31:39 ivan-PC kernel: [236575.376663] ACPI: EC: EC started
+Apr 17 01:31:39 ivan-PC kernel: [236575.385341] ACPI: Waking up from system sleep state S3
+Apr 17 01:31:39 ivan-PC kernel: [236575.390099] ACPI: EC: interrupt unblocked
+Apr 17 01:31:39 ivan-PC kernel: [236575.489734] ACPI: EC: event unblocked
+Apr 17 02:01:20 ivan-PC kernel: [236830.884311] ACPI: EC: interrupt blocked
+Apr 17 02:01:20 ivan-PC kernel: [236830.924352] ACPI: Preparing to enter system sleep state S3
+Apr 17 02:01:20 ivan-PC kernel: [236830.926476] ACPI: EC: event blocked
+Apr 17 02:01:20 ivan-PC kernel: [236830.926477] ACPI: EC: EC stopped
+Apr 17 02:01:20 ivan-PC kernel: [236830.992194] ACPI: Low-level resume complete
+Apr 17 02:01:20 ivan-PC kernel: [236830.992312] ACPI: EC: EC started
+Apr 17 02:01:20 ivan-PC kernel: [236831.001024] ACPI: Waking up from system sleep state S3
+Apr 17 02:01:20 ivan-PC kernel: [236831.005826] ACPI: EC: interrupt unblocked
+Apr 17 02:01:20 ivan-PC kernel: [236831.101305] ACPI: EC: event unblocked

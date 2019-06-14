@@ -1,0 +1,35 @@
+#!/bin/bash
+
+filename=$1
+trash_directory=$HOME/trash
+
+log_file=$HOME/trash.log
+trash_counter_file=$HOME/trash.counter
+
+if [[ $# -ne 1 ]] 
+then
+	echo "Illegal numbel of arguments. One argument expected [filename]"
+	exit 1
+fi
+
+if [[ ! -f $filename ]]
+then
+	echo "File does not exist"
+	exit 1
+fi
+
+if [[ ! -d $trash_directory ]]
+then 
+	mkdir $trash_directory
+	touch $log_file
+	touch $trash_counter_file
+	echo "0" > $trash_counter_file
+fi
+
+counter=$(($(cat $trash_counter_file) + 1))
+
+ln $filename $trash_directory/$counter
+rm $filename
+
+echo "$counter:$(pwd):$filename" >> $log_file
+echo $counter > $trash_counter_file

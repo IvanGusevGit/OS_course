@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Modifaiction:: add arguments to push them to program to open
+
 echo "Enter \"1\" to open nano"
 echo "Enter \"2\" to open vim"
 echo "Enter \"3\" to open links"
@@ -9,13 +11,13 @@ do
 	read number
 	case $number in 
 		1)
-			vim
+			nano $*
 			;;
 		2)
-			nano
+			vim $*
 			;;
 		3)
-			links
+			links $*
 			;;
 		4)
 			break
